@@ -1,21 +1,24 @@
-### <span>Allison Chiang</span>
+### Allison Chiang
 
 ---
 
-<a href="https://viam.com"><img align="left" src="assets/viam.png" alt="Viam" width="80" height="80" style="object-fit: cover; border-radius: 12px;"></a>
-&nbsp;
-### [<span style="color: #12141A;"><b>Viam</b></span>](https://viam.com)
-<p>SDK/CLI tools for hardware</p>
-<br clear="left"/>
+<a href="https://viam.com"><img src="assets/viam.png" alt="Viam" width="80" height="80" align="left" hspace="16" /></a>
 
-<a href="https://www.americanprogress.org"><img align="left" src="assets/cap.png" alt="Center for American Progress" width="80" height="80" style="object-fit: cover; border-radius: 12px;"></a>
-&nbsp;
-### [<span style="color: #00447C;"><b>Center for American Progress</b></span>](https://www.americanprogress.org)
-<p>IT automation and security onboarding</p>
-<br clear="left"/>
+### [Viam](https://viam.com)
+SDK/CLI tools for hardware
 
-<a href="https://visa.com"><img align="left" src="assets/visa.jpg" alt="Visa" width="80" height="80" style="object-fit: cover; border-radius: 12px;"></a>
-&nbsp;
-### [<span style="color: #1A1F71;"><b>Visa</b></span>](https://visa.com)
-<p>Engineering tools for the nextgen payment platform</p>
-<br clear="left"/>
+<br clear="both" />
+
+<a href="https://www.americanprogress.org"><img src="assets/cap.png" alt="Center for American Progress" width="80" height="80" align="left" hspace="16" /></a>
+
+### [Center for American Progress](https://www.americanprogress.org)
+IT automation and security onboarding
+
+<br clear="both" />
+
+<a href="https://visa.com"><img src="assets/visa.jpg" alt="Visa" width="80" height="80" align="left" hspace="16" /></a>
+
+### [Visa](https://visa.com)
+Engineering tools for the nextgen payment platform
+
+<br clear="both" />
